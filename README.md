@@ -1,6 +1,6 @@
 /**
 *
-* Board Rules extension for the phpBB Forum Software package.
+* Activity 24 hours extension for the phpBB Forum Software package.
 * Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>
