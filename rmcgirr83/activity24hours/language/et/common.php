@@ -1,7 +1,7 @@
 <?php
 
 /**
-*
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * @package - Activity 24 hours
 * @copyright (c) 2015 RMcGirr83
@@ -35,24 +35,24 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'BOTS_24HOUR_TOTAL'	=> array(
-		1 => '%d bot',
-		2 => '%d bots',
+		1 => '%d robot',
+		2 => '%d robotit',
 	),
-	'USERS_24HOUR_TOTAL'	=>  '%d registered,',
-	'HIDDEN_24HOUR_TOTAL'	=> ' %d hidden, ',
+	'USERS_24HOUR_TOTAL'	=>  '%d registreeritud,',
+	'HIDDEN_24HOUR_TOTAL'	=> ' %d peidetud, ',
 	'GUEST_ONLINE_24'		=> array(
-		1 => ' and %d guest',
-		2 => ' and %d guests',
+		1 => ' ja %d külaline',
+		2 => ' ja %d külalist',
 	),
-	'LAST_24_HOURS'	=> ' active over the last 24 hours',
-	'24HOUR_TOPICS'			=> 'New topics %d',
-	'24HOUR_POSTS'			=> 'New posts %d',
-	'24HOUR_USERS'			=> 'New users %d',
-	'NO_ONLINE_BOTS'		=> 'No Bots active',
+	'LAST_24_HOURS'	=> ' aktiivne viimase 24h jooksul',
+	'24HOUR_TOPICS'			=> 'Uusi teemasid %d',
+	'24HOUR_POSTS'			=> 'Uusi postitusi %d',
+	'24HOUR_USERS'			=> 'Uusi kasutajaid %d',
+	'NO_ONLINE_BOTS'		=> 'Ühtegi robotit ei ole katiivseid',
 
-	'TWENTYFOURHOUR_STATS'	=> 'Activity over the last 24 hours',
+	'TWENTYFOURHOUR_STATS'	=> 'Tegevus viimase 24h jooksul',
 	'TOTAL_24HOUR_USERS'	=> array(
-		1 => 'In total there was %d user :: ',
-		2 => 'In total there were %d users :: ',
+		1 => 'Kokku oli %d kasutaja :: ',
+		2 => 'Kokku oli %d kasutajat :: ',
 	),
 ));
